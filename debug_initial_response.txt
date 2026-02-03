@@ -1,0 +1,63 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Host www.justice.gov:443 was resolved.
+* IPv6: 2600:1403:c400:68e::1dae, 2600:1403:c400:68a::1dae
+* IPv4: 23.39.142.204
+*   Trying [2600:1403:c400:68e::1dae]:443...
+* Connected to www.justice.gov (2600:1403:c400:68e::1dae) port 443
+* ALPN: curl offers h2,http/1.1
+* (304) (OUT), TLS handshake, Client hello (1):
+} [320 bytes data]
+*  CAfile: /etc/ssl/cert.pem
+*  CApath: none
+* (304) (IN), TLS handshake, Server hello (2):
+{ [122 bytes data]
+* (304) (IN), TLS handshake, Unknown (8):
+{ [29 bytes data]
+* (304) (IN), TLS handshake, Certificate (11):
+{ [3009 bytes data]
+* (304) (IN), TLS handshake, CERT verify (15):
+{ [264 bytes data]
+* (304) (IN), TLS handshake, Finished (20):
+{ [36 bytes data]
+* (304) (OUT), TLS handshake, Finished (20):
+} [36 bytes data]
+* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256 / [blank] / UNDEF
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: C=US; ST=District Of Columbia; L=Washington; O=U.S. Department of Justice; CN=www.justice.gov
+*  start date: Dec 30 00:00:00 2025 GMT
+*  expire date: Jan  5 23:59:59 2027 GMT
+*  subjectAltName: host "www.justice.gov" matched cert's "www.justice.gov"
+*  issuer: C=US; O=DigiCert Inc; OU=www.digicert.com; CN=GeoTrust TLS RSA CA G1
+*  SSL certificate verify ok.
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://www.justice.gov/epstein
+* [HTTP/2] [1] [:method: GET]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: www.justice.gov]
+* [HTTP/2] [1] [:path: /epstein]
+* [HTTP/2] [1] [user-agent: curl/8.7.1]
+* [HTTP/2] [1] [accept: */*]
+> GET /epstein HTTP/2
+> Host: www.justice.gov
+> User-Agent: curl/8.7.1
+> Accept: */*
+> 
+* Request completely sent off
+< HTTP/2 200 
+< server: AkamaiGHost
+< mime-version: 1.0
+< content-type: text/html
+< content-length: 2604
+< cache-control: no-cache, no-store, must-revalidate
+< expires: 0
+< date: Tue, 03 Feb 2026 14:22:38 GMT
+< alt-svc: h3=":443"; ma=93600
+< strict-transport-security: max-age=31536000; includeSubDomains; preload
+< set-cookie: ak_bmsc=2791D9867C8E46DAE9989A0984D7BAF0~000000000000000000000000000000~YAAQDtfdF5JSPiCcAQAAZUriIx45FPublcM/WVF6ltOMOqY2cV0iRBxH+BPeN7LkMpwjeTrQS5rL1XePIM+qnn3lZfMmxTzDQ9MP0Www5PW1Un7AKm8Hvw1ZilBq2opDoJuRzMGqy6CIQxFm3HHaS1WyFdsPkrixV8bDwB1/qvrDwHyK9l0A91jFMMS4nUmI91TAKCL9h3Qjlrrv19FYZck/2jkbcDgt3h1HTxUDF07HRWIM4E4D5wfqJadv61Wf+ToqthuIyG+lbnl+dc9+c+tL99VqbLCY5L75aFyanIcTekvO5r3dFBGfbDWGBn6oNqOMuGucRCpJ8rgEnP/SeohuPwzfcorOtrIGkPwCvuKxSZ1d3edCswL3k0eNf8IVJkeSdY2NnLUEz15pnyeATm+iafNjRz1FyACv+B0sUabY3svd6cMXNlpw7m1EiJeqfztt/Leb2C2/0HD544k3rarjZyG6Zi5zaKIcgOA=; Domain=.justice.gov; Path=/; Expires=Tue, 03 Feb 2026 16:22:38 GMT; Max-Age=7200; HttpOnly
+< 
+{ [2604 bytes data]
+100  2604  100  2604    0     0   8960      0 --:--:-- --:--:-- --:--:--  8979
+* Connection #0 to host www.justice.gov left intact
+<!DOCTYPE html><html><head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="refresh" content="5; URL='/epstein?bm-verify=AAQAAAAM_____-XK0DbJ9Gge74cKaAdtzdsVXMoZrQ9E0tNUmQFxW57sSSVK_Mc60IrFQHRTHnDzZvnlLp2Rehavkt6-OJxN2NEyC-uwZmmJc0DGmpywIfVjVXTUHGj-jnTHZ7Hn9NCh73h2oQnv07MO0a_W3JppFSTrwVTuMaVWUqYMrX8Qdf6sa6Oz-jsx9qG0xWoSaxITRoiK27CU9r92A1r8oW77K-jm1WvjO72zTm5cHHsSgtl4mrLICapnG8eOh51YUg'" /><title>&nbsp;</title><script> var i = 1770128558; var j = i + Number("4063" + "47895"); </script> </head> <noscript> <iframe style="border: none; height: 100%; width: 100%;" src=""></iframe></noscript><body style="margin:0; height:100vh; display:flex; justify-content:center; align-items:flex-start;"> <div style="position:relative; top:33vh; text-align:center;"> <div> <p style="font-family:sans-serif; font-size:16px; margin-bottom:12px; color:#333;"> Powered and protected by </p> </div> <div> <img id="akam-logo" src="/_sec/akamai-logo.svg" alt="Powered by Akamai" loading="eager" style="width:200px; height:auto;" /> </div> <div class="akamai-privacy" ><a href="https://www.akamai.com/privacy" target="_blank">Privacy</a> </div> </div> <script> function triggerInterstitialChallenge() {var xhr = new XMLHttpRequest(); xhr.withCredentials = true; xhr.addEventListener("loadend", function() { try { var data = JSON.parse(xhr.responseText); if (data.hasOwnProperty('reload')) { if (data["reload"] == true) { window.location.replace(window.location.href.replace(/[&?]bm-verify=[^#]*/, ""));  if(window.location.hash){ window.location.reload(); } } } else if (data.hasOwnProperty('location')) { window.location.replace(data["location"]); } else { window.location.reload(); } } catch (e) { window.location.reload(); }}); xhr.open("POST", "/_sec/verify?provider=interstitial", false); xhr.setRequestHeader("Content-Type", "application/json"); xhr.send(JSON.stringify({"bm-verify": "AAQAAAAM/////8DWX8v+e9nCFCqe1i40CoGCkZccnNSkQqygetsxc1tW1KQaoFM3eaNErBpZg/IYjtAoDGTdU1LfEPWxP6nEN0WMhYTr1/xn+xQSprJYvKKEQXnXwsqPsE/fvXYHnotKBVLYtvIBx2sx+1JgxNlVacEZsj9Ws889nuSKAtD26pojxl+2Qpj1nTNoZSfZ7JGSNWurwkFxievCZRTQOBdYOta1qAvZYgnULjrIoHVG33HDvOVhwqtX6NqDj4OpwM1Gr9yDfFVdmqrmEF4t3CE=", "pow": j}));} try {if (document.getElementById("akam-logo")) {document.getElementById("akam-logo").onload = function () {requestAnimationFrame(triggerInterstitialChallenge);}; document.getElementById("akam-logo").onerror = triggerInterstitialChallenge;} else {triggerInterstitialChallenge()}} catch(e) {triggerInterstitialChallenge();}</script>  </body> </html>
