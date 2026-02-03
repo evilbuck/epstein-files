@@ -114,6 +114,9 @@ Which phases cover which requirements. Updated during roadmap creation.
 | PARSE-01 | Phase 1 | Pending |
 | PARSE-02 | Phase 1 | Pending |
 | PARSE-03 | Phase 1 | Pending |
+| UI-01 | Phase 1 | Pending |
+| UI-02 | Phase 1 | Pending |
+| AGENT-01 | Phase 1 | Pending |
 | SEARCH-01 | Phase 2 | Pending |
 | SEARCH-02 | Phase 2 | Pending |
 | SEARCH-03 | Phase 2 | Pending |
@@ -121,24 +124,27 @@ Which phases cover which requirements. Updated during roadmap creation.
 | ENTITY-02 | Phase 2 | Pending |
 | ENTITY-03 | Phase 2 | Pending |
 | ENTITY-04 | Phase 2 | Pending |
-| AI-01 | Phase 3 | Pending |
-| AI-02 | Phase 3 | Pending |
-| AI-03 | Phase 3 | Pending |
-| AI-04 | Phase 3 | Pending |
-| GRAPH-01 | Phase 4 | Pending |
-| GRAPH-02 | Phase 4 | Pending |
-| GRAPH-03 | Phase 4 | Pending |
-| TIME-01 | Phase 4 | Pending |
-| TIME-02 | Phase 4 | Pending |
-| TIME-03 | Phase 4 | Pending |
-| UI-01 | Phase 1 | Pending |
-| UI-02 | Phase 1 | Pending |
 | UI-03 | Phase 2 | Pending |
-| UI-04 | Phase 3 | Pending |
-| AGENT-01 | Phase 1 | Pending |
 | AGENT-02 | Phase 2 | Pending |
+| GRAPH-01 | Phase 3 | Pending |
+| GRAPH-02 | Phase 3 | Pending |
+| GRAPH-03 | Phase 3 | Pending |
+| TIME-01 | Phase 3 | Pending |
+| TIME-02 | Phase 3 | Pending |
+| TIME-03 | Phase 3 | Pending |
 | AGENT-03 | Phase 3 | Pending |
-| AGENT-04 | Phase 3 | Pending |
+| AI-01 | Phase 4 | Pending |
+| AI-02 | Phase 4 | Pending |
+| AI-03 | Phase 4 | Pending |
+| AI-04 | Phase 4 | Pending |
+| UI-04 | Phase 4 | Pending |
+| AGENT-04 | Phase 4 | Pending |
+
+**Phase Summary:**
+- **Phase 1 (Foundation):** 9 requirements — document ingestion, storage, parsing, basic UI, agent data access
+- **Phase 2 (Search & Entities):** 9 requirements — full-text search, entity extraction, URL sharing, agent tooling
+- **Phase 3 (Intelligence):** 7 requirements — entity relationships, graph visualization, timeline, agent analysis
+- **Phase 4 (AI Q&A):** 6 requirements — natural language queries, citations, confidence scoring, annotations, agent logging
 
 **Coverage:**
 - v1 requirements: 30 total
@@ -147,4 +153,4 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 ---
 *Requirements defined: 2025-02-02*
-*Last updated: 2025-02-02 after research-based scoping*
+*Last updated: 2025-02-02 after roadmap creation*
