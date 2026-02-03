@@ -172,6 +172,7 @@ epstein-files/
 ## External Resources
 
 **Primary Source:** https://www.justice.gov/epstein
+- https://www.justice.gov/epstein/doj-disclosures
 
 **Non-downloadable datasets** (require browser scraping):
 - Data Set 8, 9, 10, 11
@@ -185,6 +186,10 @@ When you need to extract or process data repeatedly, **build a tool** instead of
 - **Research first**: Find the best CLI tools for the job (htmlq, pup, jq, ripgrep, etc.)
 - **Build MVP scrapers**: Create simple, focused scripts that output structured data
 - **Don't parse webpages in context**: Use the model for strategy, tools for execution
+
+### Existing Tools
+
+@include @docs/AGENT_INTEGRATIONS.md
 
 ### Web Scraping Workflow
 
@@ -237,3 +242,35 @@ Before submitting changes:
 - [ ] Tests pass (or are added for new functionality)
 - [ ] Linting passes (ruff, eslint, shellcheck as appropriate)
 - [ ] Backlog updated if needed
+- [ ] Document the architecture. How to use and how to develop further.
+
+## Directory Structure
+
+- **docs/** project level. Architecture, decision making, PRD's
+- **tmp/** artifacts from processing files. as the name suggests, temporary files. Scratchpad items
+
+## Self-Improvement
+
+Before and after manually processing. I want you to stop and take a moment to think about the data 
+you're processing and how you're acquiring it. Are you brute forcing your way to it? Are you constantly 
+running the same commands over and over. Would a script or a tool help you process the data more effectively?
+
+Keep track of the types of tasks you run, especially when researching or fetching external data. Use a memory file in docs/memory.md. Review this file after writing to it or after manually running a task from scratch.
+Consider if it could be scripted in a way that you can run it and get just the output you need.
+
+For example, if you're fetching webpage data only to get the links. Build a scraper tool that outputs the link data. It's more efficient. Keeps your context lean.
+
+You have the freedom to create your own tools. 
+
+### Update your own memory 
+
+@AGENTS.md (this file). Update this file with tools that you build or instructions that will help.
+
+Create your own opencode and claudecode agents that will enable you to background process.
+
+Update docs/AGENT_INTEGRATIONS.md with any new tools you find useful.
+
+### Agents Use
+
+Use agents to do your bidding. Determine if the agent was successful. If it wasn't, consider a different approach. Reason about what else you could do. Should you build a new tool to help yourself solve the problem? Is there an existing tool you built? Don't stop until you solve the problem. Learn from the errors. Write them down. Use a file as memory in the `docs/memory/:taskname/` folder.
+You always assess, then you verify the work. Don't trust it. You verify that it works. If it doesn't, think about the problem, the prior results, what you've tried, and how to approach it again.

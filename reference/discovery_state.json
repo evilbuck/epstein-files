@@ -1,0 +1,774 @@
+{
+  "base_url": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+  "visited": [
+    "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039153.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039156.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039190.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039208.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039220.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039227.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039282.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039295.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039312.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039351.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039356.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039357.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039367.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039416.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039419.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039420.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039660.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039662.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039663.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039665.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039689.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039790.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039791.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039794.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039796.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039797.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039798.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039799.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039802.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039806.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039809.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039813.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039815.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039816.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039817.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039820.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039825.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039826.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039828.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039867.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039868.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039872.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039875.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039878.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039879.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039880.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039881.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    },
+    {
+      "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039882.pdf",
+      "text": "",
+      "is_pdf": true,
+      "domain": "www.justice.gov",
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files",
+      "depth": 0
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.justice.gov/",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/agencies/chart/grid",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/action-center/find-help-and-information-crime-victims",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/contact-us",
+      "text": "Contact Us\nContact Us\nContact the Department",
+      "context": " Contact Us ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/about",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/ag",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/agencies/chart/map",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/doj/budget-and-performance",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/history",
+      "text": "History",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/opcl",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/our-work",
+      "text": "Our Work",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/press-releases",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/speeches",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/videos",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/photo-galleries",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/blogs",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/news/podcasts",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/resources",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/guidance",
+      "text": "Guidance Documents",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/forms",
+      "text": "Forms",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/publications",
+      "text": "Publications",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/information-victims-large-cases",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/jm/justice-manual",
+      "text": "Justice Manual",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/business",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/grants",
+      "text": "Grants",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/careers",
+      "text": "Employment",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/careers/why-justice",
+      "text": "Why Justice ?",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/careers/benefits",
+      "text": "Benefits",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/careers/search-jobs",
+      "text": "DOJ Vacancies",
+      "context": " ",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/legal-careers",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/doj-disclosures",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/search",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/court-records",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/foia",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/doj-disclosures/data-set-8-files",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/doj-disclosures/data-set-10-files",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files?page=0",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files?page=1",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/social-media",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/archives/doj-archive",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/oip",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/accessibility/accessibility-statement",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/legalpolicies",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/doj/privacy-policy",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/employees",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://oig.justice.gov/",
+      "text": "Office of the Inspector General",
+      "context": "eld-formatter--text-default field-text-format--wysiwyg text-formatted body\"> Office of the Inspector General <a href=\"/jmd/eeo-program-status-report\" data-entity-ty",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/jmd/eeo-program-status-report",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/jmd/media/1425556/dl?inline",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/jmd/vulnerability-disclosure-policy",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    },
+    {
+      "url": "https://www.justice.gov/multilingual",
+      "text": "",
+      "context": "",
+      "depth": 0,
+      "source_page": "https://www.justice.gov/epstein/doj-disclosures/data-set-9-files"
+    }
+  ]
+}
