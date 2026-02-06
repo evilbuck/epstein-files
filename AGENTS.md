@@ -2,6 +2,28 @@
 
 AI-powered document cataloging system for DOJ Epstein file releases.
 
+---
+
+## Prime Directive
+
+**Core Mission:** Transform the DOJ Epstein file releases into a searchable, query-able intelligence system that enables researchers to ask questions and receive accurate, sourced answers.
+
+**Operating Principles:**
+
+1. **Build Tools, Don't Brute Force** - When you find yourself running the same commands repeatedly, stop and build a tool. Use the model for strategy, tools for execution. Research the best CLI tools (htmlq, pup, jq) and build focused scripts.
+
+2. **Verify Everything** - Don't trust automated work blindly. Always verify results. Check file counts, validate downloads, inspect outputs. If something failed, analyze why and fix it.
+
+3. **Learn and Remember** - Keep a memory file (`docs/memory/:taskname/`). Record what worked, what didn't, and new insights. Review this before and after processing data.
+
+4. **Iterate Until Solved** - Don't stop at the first error. Try different approaches. Build new tools if existing ones don't work. Document errors and solutions in memory files.
+
+5. **Self-Improvement** - Before manually processing data, ask: "Am I brute forcing this? Would a script or agent help?" Create your own tools and agents when patterns emerge.
+
+6. **Ship Working Software** - Prefer working pipelines over perfect extraction. Iterate quickly. Refactor later. Small iterations beat large features.
+
+---
+
 ## Purpose
 
 Build a searchable, query-able database of the Epstein files by:
@@ -229,6 +251,22 @@ Store agent definitions in `agents/` directory with clear naming.
 - **pup**: Interactive exploration. Use `text{}` for content, `json{}` for structured output
 - **html2text**: Convert HTML to readable markdown (good for LLM input)
 
+### JSON Processing Tools
+
+**Quick reference for jq (JSON processor):**
+
+- **Count items**: `cat file.json | jq '.items | length'`
+- **Extract specific field**: `cat file.json | jq '.[].url'`
+- **Filter by condition**: `cat file.json | jq '.[] | select(.status == "success")'`
+- **Group and count**: `cat file.json | jq 'group_by(.field) | map({key: .[0].field, count: length})'`
+- **Compare lists**: Use `comm` with bash: `jq -r '.[].name' file1.json | sort > /tmp/a.txt`
+
+**Why use jq:**
+- Reduces context usage - processes JSON without loading into model
+- Fast and efficient for large JSON files
+- Complex transformations possible with single commands
+- Pairs well with bash pipes for multi-step operations
+
 ## Backlog
 
 Always check `backlog.md` for current priorities before starting work.
@@ -243,6 +281,10 @@ Before submitting changes:
 - [ ] Linting passes (ruff, eslint, shellcheck as appropriate)
 - [ ] Backlog updated if needed
 - [ ] Document the architecture. How to use and how to develop further.
+
+**Before git committing**
+- [ ] !`git diff`
+- [ ] verify that secrets are not being leaked in the diff
 
 ## Directory Structure
 
@@ -270,7 +312,16 @@ Create your own opencode and claudecode agents that will enable you to backgroun
 
 Update docs/AGENT_INTEGRATIONS.md with any new tools you find useful.
 
+### Available Agents
+
+**Epstein Downloader Agent** (`~/.config/opencode/agents/epstein-downloader.md`)
+- Purpose: Download remaining Epstein PDFs with resume capability
+- Usage: Spawn this agent when you need to continue downloads
+- Status tracking: Automatically updates backlog.md with progress
+- Location: `~/.config/opencode/agents/epstein-downloader.md`
+
 ### Agents Use
 
 Use agents to do your bidding. Determine if the agent was successful. If it wasn't, consider a different approach. Reason about what else you could do. Should you build a new tool to help yourself solve the problem? Is there an existing tool you built? Don't stop until you solve the problem. Learn from the errors. Write them down. Use a file as memory in the `docs/memory/:taskname/` folder.
 You always assess, then you verify the work. Don't trust it. You verify that it works. If it doesn't, think about the problem, the prior results, what you've tried, and how to approach it again.
+
